@@ -15,7 +15,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <BookMarked className="h-8 w-8" />
-              <span className="font-bold text-xl">Project Bank</span>
+              <span className="font-bold text-xl">Moringa Sch.</span>
             </Link>
           </div>
 
